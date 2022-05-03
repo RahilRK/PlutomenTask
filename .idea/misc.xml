@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Rahil/AndroidDemoProjects/PlutomenTask/app/src/main/res/layout/activity_login.xml" value="0.16770833333333332" />
+        <entry key="..\:/Rahil/AndroidDemoProjects/PlutomenTask/app/src/main/res/layout/activity_main.xml" value="0.1574074074074074" />
         <entry key="..\:/Rahil/AndroidDemoProjects/PlutomenTask/app/src/main/res/layout/activity_registration.xml" value="0.16770833333333332" />
         <entry key="..\:/Rahil/AndroidDemoProjects/PlutomenTask/app/src/main/res/layout/activity_splash.xml" value="0.16770833333333332" />
+        <entry key="..\:/Rahil/AndroidDemoProjects/PlutomenTask/app/src/main/res/layout/activity_update_account.xml" value="0.16770833333333332" />
+        <entry key="..\:/Rahil/AndroidDemoProjects/PlutomenTask/app/src/main/res/layout/activity_user_list.xml" value="0.16770833333333332" />
+        <entry key="..\:/Rahil/AndroidDemoProjects/PlutomenTask/app/src/main/res/layout/user_list_item.xml" value="0.16770833333333332" />
       </map>
     </option>
   </component>
