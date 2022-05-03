@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17277089927",
+    "firebase_url": "https://plutomen-task-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "plutomen-task",
+    "storage_bucket": "plutomen-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17277089927:android:e22fca0b893af42abd2022",
+        "android_client_info": {
+          "package_name": "com.rahilkarim.plutomentask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17277089927-j6tnhac21rlpluu29sg79g48vjm8qeg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahilkarim.plutomentask",
+            "certificate_hash": "576b28b6e2f25484f8e541ff6b3f7cb0d02d85a9"
+          }
+        },
+        {
+          "client_id": "17277089927-jriq0pc4q8balb3ab87h9ci77ssqfu32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATyCtYy8_DTvZjsPWP6CqwYo2dRyDh0qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17277089927-jriq0pc4q8balb3ab87h9ci77ssqfu32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
